@@ -4,6 +4,7 @@ import io.reactivex.android.schedulers.AndroidSchedulers
 import io.reactivex.disposables.CompositeDisposable
 import io.reactivex.schedulers.Schedulers
 import th.thebox.sayhichat.data.entity.model.friend.FriendModel
+import th.thebox.sayhichat.data.entity.model.friend.FriendModel.Companion.BOY
 import th.thebox.sayhichat.data.usecase.friend.FriendListUseCase
 import th.thebox.sayhichat.extensions.addTo
 
@@ -12,7 +13,7 @@ class FriendListPresenter(private var view: FriendListContract.View?,
 
     private val compositeDisposable = CompositeDisposable()
 
-    private var currentIndex = 2
+    private var currentIndex = BOY
 
     override fun findFriend(gender: Int) {
 
