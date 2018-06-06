@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#7C9D3B</color>
+    <color name="colorPrimaryDark">#7C9D3B</color>
+    <color name="colorAccent">#946941</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="grey">#4A4A4A</color>
+    <color name="status_confirm">#45692B</color>
+    <color name="status_wait_confirm">#946941</color>
+    <color name="appTextColor">#979797</color>
+    <color name="appButtonTextColor">#747474</color>
+    <color name="appLineColor">#40979797</color>
+    <color name="coinsRewardTextColor">#416200</color>
+    <color name="canRedeemTextColor">#FF946941</color>
+    <color name="cannotRedeemTextColor">#FF9B9B9B</color>
+    <color name="requestTitleTextColor">#7B766F</color>
+    <color name="requestDetailTextColor">#BBBBBB</color>
+    <color name="requestBackground">#20EFEBD6</color>
+    <color name="historySelectedTabColor">#FFFFFF</color>
+    <color name="historyDeselectedTabColor">#FF946941</color>
+
+    <color name="appBlackTextColor">#4A4A4A</color>
+    <color name="appGreenTextColor">#7C9D3B</color>
+    <color name="appBrownTextColor">#946941</color>
+    <color name="appGrayTextColor">#BCBCBC</color>
+    <color name="appBackground">#20EFEBD6</color>
+
+    <color name="rqWaitBg">#7C9D3B</color>
+    <color name="rqInProgressBg">#946941</color>
+    <color name="rqRejectBg">#E7AE00</color>
+    <color name="rqChangeAppointmentBg">#5BB1FF</color>
+
+    <color name="rewardStatusWait">#946941</color>
+    <color name="rewardStatusComplete">#7C9D3B</color>
+    <color name="rewardStatusReject">#E53935</color>
+
+
+</resources>

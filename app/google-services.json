@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "442002689771",
+    "firebase_url": "https://sayhichat-83a36.firebaseio.com",
+    "project_id": "sayhichat-83a36",
+    "storage_bucket": "sayhichat-83a36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442002689771:android:3e07a4d90f3d806e",
+        "android_client_info": {
+          "package_name": "th.thebox.sayhichat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442002689771-ev9lj4v8t4dgbuf58htvq6h606fnqpcc.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "442002689771-ev9lj4v8t4dgbuf58htvq6h606fnqpcc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-lPaMyDXfSRUl83kAzxCdy3MfoXzcCrA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
